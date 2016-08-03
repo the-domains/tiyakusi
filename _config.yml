@@ -1,8 +1,26 @@
-layout_spectrum: 0.8903918
-color:
-  saturation: 0.2606438
-  brandStrength: 0.9674614
-  lightness: 0.3428172
-  rhythmicContrast: 0.3646948
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.275653
+color:
+  saturation: 0.2304104
+  lightness: 0.3036381
+  brandStrength: 1
+  brandColors:
+    - '#5B8BB9'
+    - '#8CA9C8'
+    - '#200907'
+    - '#5F4129'
+    - '#345A87'
+  rhythmicContrast: 0.3646948
+layout_spectrum: 0.8903918
 name: tiyakusi
