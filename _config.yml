@@ -1,0 +1,14 @@
+layout_spectrum: 0.8903918
+color:
+  saturation: 0.2606438
+  brandStrength: 0.9674614
+  lightness: 0.3428172
+  rhythmicContrast: 0.3646948
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.275653
+name: tiyakusi
